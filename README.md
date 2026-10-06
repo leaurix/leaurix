@@ -46,15 +46,15 @@ Currently exploring:
 ## 🚀 What I'm Doing
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  🤖 Exploring Machine Learning              │
-│  🧠 Learning Deep Learning                  │
-│  🔧 Building & experimenting                │
-│  📚 Improving my programming skills        │
-│  💡 Turning ideas into projects             │
-│                                             │
-└─────────────────────────────────────────────┘
+
+
+  🤖 Exploring Machine Learning              
+  🧠 Learning Deep Learning                  
+  🔧 Building & experimenting                
+  📚 Improving my programming skills        
+  💡 Turning ideas into projects             
+                                             
+
 ```
 
 ---
