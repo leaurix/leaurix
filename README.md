@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Developer • Builder • Machine Learning Enthusiast</b>
+  <b>Developer • Builder • Machine Learning Enthusiast • Anime Lover</b>
 </p>
 
 <p align="center">
